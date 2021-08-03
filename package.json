@@ -1,0 +1,25 @@
+{
+  "name": "expressshoppinglist",
+  "version": "1.0.0",
+  "description": "A simple JSON API application where we will store a shopping list in Express.JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanuarS/ExpressShoppingList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanuarS/ExpressShoppingList/issues"
+  },
+  "homepage": "https://github.com/JanuarS/ExpressShoppingList#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.4"
+  }
+}
